@@ -1,8 +1,10 @@
 # 💈 Barber SaaS — Backend
 
-Backend de um **sistema SaaS para barbearias**, desenvolvido com foco em **arquitetura limpa, autenticação segura e escalabilidade**, permitindo que barbeiros administrem seus serviços, horários, agenda e clientes.
+> ⚠️ Observação  
+> Este projeto representa a **primeira abordagem backend** do BarberSystem, desenvolvida com foco em arquitetura, autenticação e regras de negócio.
+>  
+> Posteriormente, o projeto frontend foi integrado ao Supabase para acelerar o desenvolvimento e o deploy, mas este repositório permanece como demonstração de um backend SaaS estruturado, desacoplado de qualquer frontend.
 
-Este projeto foi construído com o objetivo de **aprendizado prático** e também como **portfólio profissional**, simulando um sistema real usado no mercado.
 
 ---
 
@@ -167,16 +169,12 @@ Authorization: Bearer JWT_TOKEN
 
 ---
 
-## 📌 Status do Projeto
+📌 Status do Projeto
+🧪 Prova de conceito concluída (Backend)
 
-🚧 **Em desenvolvimento**
+Este backend está funcional e pode ser testado via ferramentas como Postman ou Thunder Client.
+A integração com frontend não faz parte do escopo atual deste repositório.
 
-Próximas fases planejadas:
-
-* Dashboard do barbeiro
-* Relatórios
-* Sistema de clientes
-* Frontend (React / React Native)
 
 ---
 
